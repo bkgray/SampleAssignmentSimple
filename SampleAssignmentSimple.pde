@@ -9,7 +9,7 @@ void draw()
 }
 void head()
 {
-	fill(255,0,0);
+	fill(0,255,0);
 	ellipse(100,50,80,80);
 }
 void face()
